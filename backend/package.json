@@ -17,7 +17,6 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.2.1",
     "nodemailer": "^6.9.11",
-    "rentmate-ai-monorepo": "file:..",
     "socket.io": "^4.7.4"
   },
   "devDependencies": {
